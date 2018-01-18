@@ -1,5 +1,5 @@
 # Exercise 5
-** What is the value of a, b, and c in the following program?**
+**What is the value of a, b, and c in the following program?**
 
 ```ruby
 string = "Welcome to America!"
