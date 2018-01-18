@@ -1,5 +1,5 @@
 # Exercise 2
-** What will the following programs return? What is value of arr after each? **
+**What will the following programs return? What is value of arr after each?**
 
 ```ruby
 1. arr = ["b", "a"]
