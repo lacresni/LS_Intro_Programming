@@ -1,12 +1,12 @@
 # Exercise 6
-** You run the following code...**
+**You run the following code...**
 
 ```ruby
 names = ['bob', 'joe', 'susan', 'margaret']
 names['margaret'] = 'jody'
 ```
 
-** ...and get the following error message:**
+**...and get the following error message:**
 ```
 TypeError: no implicit conversion of String into Integer
   from (irb):2:in `[]='
@@ -14,7 +14,8 @@ TypeError: no implicit conversion of String into Integer
   from /Users/username/.rvm/rubies/ruby-2.0.0-p353/bin/irb:12:in `<main>'
 ```
 
-** What is the problem and how can it be fixed?**
+**What is the problem and how can it be fixed?**
+
 We are using string 'margaret' as an index for an array.
 This is not possible, an array accepts only integers as an index
 
