@@ -1,5 +1,7 @@
-# What will the following code print to the screen?
+# Exercise 4
+### What will the following code print to the screen?
 
+```ruby
 def scream(words)
   words = words + "!!!!"
   return
@@ -7,7 +9,6 @@ def scream(words)
 end
 
 scream("Yippeee")
+```
 
-=begin
-It will nothing beacuse the method returns before the puts method
-=end
+It will print nothing because the method returns before the *puts* method
